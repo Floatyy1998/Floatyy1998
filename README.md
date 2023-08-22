@@ -93,7 +93,7 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 
 <p>
 	<a href="https://github.com/Floatyy1998/portfolio">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=react">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=react">
 	</a>
 </p>
 <br />
@@ -101,7 +101,7 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 ## 📊 GitHub Stats
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=Floatyy1998&theme=react" height="192px" style="margin-right: 20px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=react" height="192px">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Floatyy1998&theme=react" height="192px" style="margin-right: 20px"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=react" height="192px">
 </p>
 
