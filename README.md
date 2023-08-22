@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Floatyy1998&theme=onedark)](https://github.com/Floatyy1998/github-profile-trophy)
+
 
 <!--
 **Floatyy1998/Floatyy1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
