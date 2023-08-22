@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hello there, I'm Konrad <img src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif" width="35px" height="35px">
+  Hello there, I'm Konrad <img src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif" width="50px" height="50px">
 </h1>
 
 <p align="center">
@@ -77,4 +77,5 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 	<img src="https://github-readme-stats.vercel.app/api?username=Floatyy1998&theme=react" height="192px" style="margin-right: 20px"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=react" height="192px">
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floatyy1998)](https://github.com/anuraghazra/github-readme-stats)
 
