@@ -58,7 +58,7 @@ Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
 </p>
 
 <h4>🗃 Backend</h3>
@@ -70,6 +70,7 @@ Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"/>
 </p>
 
 <h4>🗄 Databases</h3>
