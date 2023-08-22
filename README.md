@@ -92,10 +92,10 @@ Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring
 
 <p>
 	<a href="https://github.com/Floatyy1998/portfolio">
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=midnight-purple">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=gradient">
 	</a>
 	<a href="https://github.com/Floatyy1998/Serien-Ranking">
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=Serien-Ranking&theme=midnight-purple">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=Serien-Ranking&theme=gradient">
 	</a>
 	
 </p>
@@ -104,7 +104,7 @@ Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring
 ## 📊 GitHub Stats
 
 <p>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Floatyy1998&theme=midnight-purple" height="192px" style="margin-right: 20px"/>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=midnight-purple" height="192px">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Floatyy1998&theme=gradient" height="192px" style="margin-right: 20px"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=gradient" height="192px">
 </p>
 
