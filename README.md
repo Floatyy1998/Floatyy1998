@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-profile-trophy.vercel.app/?username=Floatyy1998&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=floatyy1998&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 **Floatyy1998/Floatyy1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
