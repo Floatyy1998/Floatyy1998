@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Hello there,
-    <img src="https://giphy.com/stickers/jedi-lightsaber-light-saber-rjiNIvUeiRKnnxFJjU" width="28px" height="28px">
+    <img src="https://media2.giphy.com/media/f9NXSxTTe3nguLde13/giphy.gif" width="28px" height="28px">
   I'm Konrad
 </h1>
 
