@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hello there, I'm Konrad <img src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif" width="50px" height="50px">
+  Hello there, I'm Konrad <img src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif" width="70px" height="70px">
 </h1>
 
 <p align="center">
