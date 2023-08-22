@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://www.konrad-dinges.de">
-		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=aqua" />
+		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=BF55EC" />
 	</a>
 </p>
 
@@ -22,11 +22,11 @@ Hey there! I'm Konrad, a passionate full stack developer with a focus on craftin
 
 ### Frontend Magic:
 
-I specialize in creating visually stunning and user-friendly frontends using React and TypeScript. Whether it's a responsive web app or a sleek mobile interface, I'm all about making interactions smooth and engaging.
+I specialize in creating visually stunning and user-friendly frontends using React and TypeScript/JavaScript. Whether it's a responsive web app or a sleek mobile interface, I'm all about making interactions smooth and engaging.
 
 ### Mobile Wonders:
 
-Kotlin is my tool of choice for developing impressive Android apps. I prioritize not only the looks but also the performance and user-friendliness of the applications.
+Java and Kotlin are my tools of choice for developing impressive Android apps. I prioritize not only the looks but also the performance and user-friendliness of the applications.
 
 ### Backend Brilliance:
 
@@ -45,8 +45,6 @@ Firebase is my secret sauce for cloud solutions. Real-time databases, authentica
 Challenges are my fuel. I thrive on problem-solving and stay up-to-date with tech trends. Learning is a constant journey that enriches my solutions.
 
 Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring innovation to life together.
-
-I'm a Full Stack Developer who specializes in building scalable and flexible web applications. I have been coding for 8+ years and graduated with a B.Sc. in Computer Science and a M.Sc. in Software Engineering. As an avid learner, I like to try out the latest technologies, as well as explore new opportunities. 
 
 <br />
 
