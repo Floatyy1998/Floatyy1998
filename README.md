@@ -21,21 +21,27 @@
 Hey there! I'm Konrad, a passionate full stack developer with a focus on crafting captivating digital experiences. My expertise spans both web and mobile realms, making me your go-to person for turning ideas into reality.
 
 ### Frontend Magic:
+
 I specialize in creating visually stunning and user-friendly frontends using React and TypeScript. Whether it's a responsive web app or a sleek mobile interface, I'm all about making interactions smooth and engaging.
 
 ### Mobile Wonders:
+
 Kotlin is my tool of choice for developing impressive Android apps. I prioritize not only the looks but also the performance and user-friendliness of the applications.
 
 ### Backend Brilliance:
+
 I've got a strong backend game too, with experience in Flask and Django. I build robust systems that handle complex business logic, database management, and API creation.
 
 ### Data Dynamo:
+
 From MongoDB to PostgreSQL, I've got the data management side covered. I design, handle, and manipulate data effectively to power applications.
 
 ### Cloud Enthusiast:
+
 Firebase is my secret sauce for cloud solutions. Real-time databases, authentication, hosting – you name it. I use Firebase to create dynamic and reliable user experiences.
 
 ### Problem Solver, Lifelong Learner:
+
 Challenges are my fuel. I thrive on problem-solving and stay up-to-date with tech trends. Learning is a constant journey that enriches my solutions.
 
 Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring innovation to life together.
