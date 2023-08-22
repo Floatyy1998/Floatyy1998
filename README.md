@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hello there,<img src="https://media.giphy.com/media/7RUNuow9v0bUxrwgSw/giphy.gif" width="35px" height="35px"><br/>I'm Konrad
+  Hello there, I'm Konrad <img src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif" width="35px" height="35px"><br/>I'm Konrad
 </h1>
 
 <p align="center">
@@ -68,8 +68,8 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 ## 📂 My Projects
 
 <p>
-	<a href="https://github.com/SimonKostin98/portfolio">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonKostin98&repo=portfolio&theme=react">
+	<a href="https://github.com/Floatyy1998/portfolio">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=react">
 	</a>
 </p>
 <br />
@@ -77,9 +77,9 @@ I'm a Full Stack Developer who specializes in building scalable and flexible web
 ## 📊 GitHub Stats
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=SimonKostin98&theme=react" height="192px" style="margin-right: 20px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKostin98&layout=compact&theme=react" height="192px">
+	<img src="https://github-readme-stats.vercel.app/api?username=Floatyy1998&theme=react" height="192px" style="margin-right: 20px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floatyy1998&layout=compact&theme=react" height="192px">
 </p>
 <p>
-	<img src="https://activity-graph.herokuapp.com/graph?username=SimonKostin98&bg_color=20232a&color=ffffff&line=61dafb&point=316d7e" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=Floatyy1998&bg_color=20232a&color=ffffff&line=61dafb&point=316d7e" />
 </p>
