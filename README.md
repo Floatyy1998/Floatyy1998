@@ -93,6 +93,10 @@ Let's collaborate! Reach me at mail@konrad-dinges.de to explore how we can bring
 	<a href="https://github.com/Floatyy1998/portfolio">
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=portfolio&theme=react">
 	</a>
+	<a href="https://github.com/Floatyy1998/Serien-Ranking">
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Floatyy1998&repo=Serien-Ranking&theme=react">
+	</a>
+	
 </p>
 <br />
 
